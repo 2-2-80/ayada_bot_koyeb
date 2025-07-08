@@ -1,13 +1,14 @@
 {
-  "name": "my-discord-bot",
-  "version": "1.0.0",
-  "description": "A Discord bot based on the provided index.js",
+  "name": "ayada-bot",
+  "version": "3.0.1",
+  "description": "綾田のbot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
     "discord.js": "^13.17.1",
-    "dotenv": "^16.4.5"
+    "dotenv": "^16.4.5",
+    "express": "^5.1.0"
   }
 }
